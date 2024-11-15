@@ -55,4 +55,5 @@ This project demonstrates concepts used in interactive web platforms:
 ## Project Setup ⚙️  
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vivekChaudhary1707/friendship-toggle-webapp.git
+
