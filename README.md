@@ -57,3 +57,17 @@ This project demonstrates concepts used in interactive web platforms:
    ```bash
    git clone https://github.com/vivekChaudhary1707/friendship-toggle-webapp.git
 
+
+
+  
+###Contributing 🤝
+Feel free to contribute by:
+Reporting issues.
+Suggesting new features.
+Creating pull requests.
+
+
+###License 📄
+This project is licensed under the MIT License. You are free to use, modify, and distribute it.
+Show your support by giving this repo a 🌟 star if you find it helpful!
+
