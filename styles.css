@@ -1,0 +1,93 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(133, 61, 210);
+    height: 100vh;
+    margin: 0;
+}
+
+#card {
+    display: flex;
+    flex-direction: column;
+    height: 500px; 
+    width: 400px;
+    background-color: white;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    overflow: hidden;
+}
+
+#card img {
+    height: 25vh; 
+    width: 30vh; 
+    object-fit: cover;
+    border-radius: 30px;
+    position: relative;
+    top: -70px; 
+}
+
+#card h2 {
+    font-size: 1.5rem;
+    position: relative;
+    margin-top: -40px;
+    margin-left: 0;
+    margin-right: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+
+
+#card h1 {
+    font-size: 1.4rem;
+    font-weight: bolder;
+    position: relative;
+    margin-left: 0;
+    margin-right: 0;
+    font-family: 'Arial', sans-serif;
+    color: red;
+}
+
+ h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.button{
+    font-size: 1.3rem;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    padding: 10px 20px;
+    background-color: rgba(66, 163, 166, 0.957); 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: opacity 0.3s;
+    font-size: medium;
+    font-weight: 700;
+    display: flex;
+    margin-top: 30px;
+    
+}
+
+.remove{
+    background-color: rgb(186, 177, 177);
+    color: black;
+    font-size: medium;
+    font-weight: 700;
+}
+.card-buttons {
+    display: flex;
+    justify-content: space-between; 
+    width: 75%; 
+    margin-top: 20px; 
+}
+
+.button:hover, .remove:hover {
+    opacity: 0.8; 
+}
