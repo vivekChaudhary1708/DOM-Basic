@@ -3,7 +3,7 @@
 Friendship Toggle Web App 🌟
 A simple and interactive web app built to demonstrate DOM Manipulation using JavaScript. The app allows users to toggle between "Add Friend" and "Remove Friend" states, with real-time changes to text, colors, and buttons.
 
-Table of Contents
+##Table of Contents
 Key Features
 How It Works
 Real-life Applications
